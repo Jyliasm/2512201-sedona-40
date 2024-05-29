@@ -2,7 +2,7 @@
 
 * Студент: [Юлия](https://up.htmlacademy.ru/htmlcss/40/user/2512201).
 * Наставник:[Евгения Подопригора] (https://htmlacademy.ru/profile/id2387199)
-
+* Сайт: [Мой проект Седона] (https://jyliasm.github.io/2512201-sedona-40/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
